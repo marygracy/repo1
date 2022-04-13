@@ -1,5 +1,6 @@
-hello #dev1
-hei  
-capital #dev1
+<<<<<<< HEAD
+hello  #dev2
+hei    #dev2
+>>>>>>> 89a47f0bb1ee6cab192205be0797a50e61cf6177
 ifo
 soutok #dev1
