@@ -1,7 +1,5 @@
-class()
-{
-	{
-	void main()
-        public static void main()
+class #dev1
+	void main(#dev1)
+        public static void main(#dev1)
 	}
 }
